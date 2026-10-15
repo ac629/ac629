@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Olá, Eu sou a Ana clara 😄
+tenho 16 Anos estudo no SESI e faço curso no SENAI.
+comecei a fazer curso esse ano e estou aprendendo bastante coisa ⚡⚡
 <!--
 **ac629/ac629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:ol
 -->
